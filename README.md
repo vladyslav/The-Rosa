@@ -3,7 +3,7 @@
 
 **Description:**
 Are you looking for a template, which you can use as a website for your restaurant? Check The Rosa! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
-### [LIVE](https://vladyslav-vasylenko.github.io/The-Rosa/)
+### [LIVE](https://vladyslav.github.io/The-Rosa/)
 **Technologies used:**
  - HTML
  - CSS
